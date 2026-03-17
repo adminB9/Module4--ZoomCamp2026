@@ -31,3 +31,4 @@ pipeline/pgadmin_data/
 **/pgadmin_data/
 **/pgdata/
 *.log
+pipeline/.env.bad
