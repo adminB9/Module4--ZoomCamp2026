@@ -1,0 +1,7 @@
+.codespaces/
+.oryx/
+.vscode/
+.python-version
+.env
+.env-secrets
+.user-secrets.json
